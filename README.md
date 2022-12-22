@@ -1,6 +1,6 @@
 ### **Bug reports created in JIRA**
 ___
-I performed retesting and regression testing of three versions of the test mobile application "QA test"
+I performed retesting and regression testing of three versions of the **test mobile application "QA test"**
 
 In this repository you can see all the bug reports that were created after testing the first version of the application
 
